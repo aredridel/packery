@@ -13,12 +13,13 @@ bower install packery
 ```
 
 ## Commercial license
+Packery is not open source.
 
 Packery may be used in commercial projects and applications with the one-time purchase of a commercial license. If you are paid to do your job, and part of your job is implementing Packery, a commercial license is required.
 
 http://packery.metafizzy.co/license.html
 
-For non-commercial, personal, or open source projects and applications, you may use Packery under the terms of the MIT License. You may use Packery for free.
+For non-commercial, personal, or open source projects and applications, you may use Packery under the terms of the MIT License with the stipulation of the commerce clause above. You may use Packery for free.
 
 ## Initialize
 
